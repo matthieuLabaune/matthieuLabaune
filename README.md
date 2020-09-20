@@ -2,8 +2,8 @@
 
 ### Currently
 - :mortar_board: I'm currently training at "[Campus Numérique in the Alps](https://le-campus-numerique.fr/)" in order to become a web developer.
-- :skull: PhD in prehistoric archaeology, I'm in professional transition to become a web developer.
-- 🌱 I’m studiying algorithmics through [sorting algorithms & recursivity](https://github.com/matthieuLabaune/Javascript_Sorting-algorithms).
+- :skull: PhD in prehistoric archaeology, I'm in professional transition.
+- 🌱 In the last two weeks, I have been studying algorithmics through [sorting algorithms & recursivity](https://github.com/matthieuLabaune/Javascript_Sorting-algorithms).
 - 🤔 I recently started a new job as a Laravel developer at the [French Handisport Federation](http://www.handisport.org/) in order to complete my professional reconversion.
 - :zap: I'm working to improve the federation's existing extranet and adding new functionalities (Laravel, Vue.js, Mysql, Github).
 - 🔭 I’m developing a blog in order to present my professional reconversion.
