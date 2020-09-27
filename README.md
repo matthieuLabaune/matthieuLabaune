@@ -11,6 +11,7 @@
 ### Find me around the web :
 
 Curiosity is not always a bad thing : [Linkedin](https://www.linkedin.com/in/labaune-matthieu/)
+My blog (under construction) : [Matt blog's](https//matthieulabaune.github.io)
 
 
 <!--
